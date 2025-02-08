@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Page to Print.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Page to Print"
+              "title": "index"
             }
           }
         ],
@@ -199,8 +199,8 @@
   },
   "active": "c079276e2f04ab8c",
   "lastOpenFiles": [
-    "1 - Criação de Personagem/Capítulo 1 - Atributos.md",
     "Page to Print.md",
+    "1 - Criação de Personagem/Capítulo 1 - Atributos.md",
     "2 - Origens/Inato.md",
     "2 - Origens/Objeto Amaldiçoado.md",
     "3 - Classes/Combatente.md",
