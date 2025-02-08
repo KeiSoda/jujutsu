@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "02c06040b23dcf67",
+    "type": "split",
+    "children": [
+      {
+        "id": "43ae6280ed8a1878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "169b3422b8f5a328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Criação de Personagem/Capítulo 3 - Perícias.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capítulo 3 - Perícias"
+            }
+          },
+          {
+            "id": "b131c7574646a630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Origens/Herdado.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Herdado"
+            }
+          },
+          {
+            "id": "c079276e2f04ab8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Page to Print.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Page to Print"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95c3cf470692c1d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b728b8633795c00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "812fc1642f6605ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "652d3753598f47d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ffc66208184d8cfe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63c2943b95524469",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a4d04afca95ab5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4118ae42786ac900",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 - Origens/Inato.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Inato"
+            }
+          },
+          {
+            "id": "3a97e4863e0e7e1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 - Origens/Inato.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Inato"
+            }
+          },
+          {
+            "id": "e1cdba9fea9a3a67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "49c3a4f2dc977fc8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 - Origens/Inato.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Inato"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c079276e2f04ab8c",
+  "lastOpenFiles": [
+    "1 - Criação de Personagem/Capítulo 1 - Atributos.md",
+    "Page to Print.md",
+    "2 - Origens/Inato.md",
+    "2 - Origens/Objeto Amaldiçoado.md",
+    "3 - Classes/Combatente.md",
+    "2 - Origens/Restringido.md",
+    "4 - Equipamento/Armas.md",
+    "Apêndice/Graus de Treinamento.md",
+    "Apêndice/Características de Anatomia.md",
+    "2 - Origens/Híbrido.md",
+    "2 - Origens/Herdado.md",
+    "2 - Origens/Derivado.md",
+    "1 - Criação de Personagem/Capítulo 3 - Perícias.md",
+    "1 - Criação de Personagem/Capítulo 2 - Status.md",
+    "1 - Criação de Personagem/Capítulo 4 - Origens, Classes e Mais.md",
+    "4 - Equipamento",
+    "Imagens/Pasted image 20250201220711.png",
+    "Imagens",
+    "Imagens/Pasted image 20250201220951.png",
+    "Imagens/Pasted image 20250201221614.png",
+    "Imagens/Pasted image 20250201221625.png",
+    "Graus.md",
+    "Apêndice",
+    "Característica de Anatomia.md",
+    "3 - Classes/Suporte.md",
+    "3 - Classes/Controlador.md",
+    "3 - Classes/Técnico.md",
+    "3 - Classes/Restringido.md",
+    "3 - Classes/Lutador.md",
+    "2 - Origens/Sem Técnica.md",
+    "3 - Classes",
+    "2 - Origens",
+    "().md",
+    "Capítulo.md",
+    "Welcome.md",
+    "1 - Criação de Personagem"
+  ]
+}
