@@ -1,4 +1,4 @@
-Certos feiticeiros têm sua capacidade de usar energia amaldiçoada e a sua técnica provinda da sua linhagem sanguínea, formando assim os herdeiros dos clãs. Ao nascer, podem acabar recebendo uma das técnicas que pertencem ao seu clã originário, nas quais costumam focar e desenvolver através dos conhecimentos já estabelecidos e valorizados.
+Certos feiticeiros têm sua capacidade de usar energia amaldiçoada e a sua técnica provinda da sua linhagem sanguínea, formando assim os herdeiros dos clãs. Ao nascer, podem acabar recebendo uma das técnicas que pertencem ao seu clã originário, nas quais costumam focar e desenvolver através dos conhecimentos já estabelecidos e valorizados. ALULA
 
 ---
 
